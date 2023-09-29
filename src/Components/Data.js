@@ -1,0 +1,68 @@
+const data = [
+    {
+        id : 1,
+        name: "Chicken Kabab",
+        info: 'Chicken deep fry in oil',
+        category: 'chicken',
+        price: '100',
+        image:'https://t4.ftcdn.net/jpg/05/85/17/03/240_F_585170352_7D9PjNXOvU3PAB4ynMRWpEavhBNuLG3J.jpg',
+    },
+    {
+        id : 2,
+        name: "Chicken Noodles",
+        category:'chicken',
+        info: 'Cook chicken, noodles, and veggies. Sauté with garlic, ginger, soy sauce. Combine for a delicious chicken noodle stir-fry.',
+        price: '150',
+        image:'https://t4.ftcdn.net/jpg/03/28/72/49/240_F_328724912_3TLhY3DEMZY8nDNKsGY9N0sUfko5Yx6R.jpg',
+    },
+    {
+        id : 3,
+        name: "Chili Chicken",
+        category:'chicken',
+        info: 'To prepare chili chicken, cook chicken pieces, sauté with onions, bell peppers, and a spicy chili sauce for a flavorful dish.',
+        price: '180',
+        image:'https://t3.ftcdn.net/jpg/04/63/13/68/240_F_463136844_iYuuMOmTHM974F9TsHNhc5TeAGZUrorv.jpg',
+    },
+    {
+        id : 4,
+        name: "Veg Salad",
+        category:'salad',
+        info: 'For a veg salad, chop fresh veggies, mix with greens, and add a dressing of your choice for a healthy dish.',
+        price: '99',
+        image:'https://t3.ftcdn.net/jpg/06/17/39/50/240_F_617395015_23MG6dKRWNIkZKaPf2mSpfxGQ3wEgpLc.jpg',
+    },
+    {
+        id : 5,
+        name: "Pizza",
+        category:'salad',
+        info: 'To make pizza, spread dough with tomato sauce, add cheese and toppings, bake until crust is golden and toppings are melted.',
+        price: '300',
+        image:'https://t3.ftcdn.net/jpg/05/01/14/68/240_F_501146872_mm1W0SzaDQQVkYlhRYmdE5rrLC97mNQX.jpg',
+    },
+    {
+        id : 6,
+        name: "Pasta",
+        category:'pasta',
+        info: 'To cook pasta, boil in salted water until al dente, then drain. Toss with sauce, herbs, and cheese for a delightful dish.',
+        price: '150',
+        image:'https://t4.ftcdn.net/jpg/01/17/35/31/240_F_117353118_AvOU3HkypQkWVXk7uMagcHTXQbpJwQ9x.jpg',
+    },
+    {
+        id : 7,
+        name: "Fried Rice",
+        category:'rice',
+        info: 'For fried rice, stir-fry cooked rice with vegetables, protein (like chicken or shrimp), soy sauce, and seasonings until well-blended and aromatic.',
+        price: '200',
+        image:'https://t3.ftcdn.net/jpg/02/40/45/12/240_F_240451218_UDl0sBJhOQ4KwNpsYQKz14j9ZUcniVK2.jpg',
+    },
+    {
+        id : 8,
+        name: "Gobi Manchurian",
+        category:'rice',
+        info: 'To prepare Gobi Manchurian, coat cauliflower florets in batter, deep-fry until crispy, and toss in a spicy, tangy Manchurian sauce.',
+        price: '99',
+        image:'https://t4.ftcdn.net/jpg/03/25/27/59/240_F_325275929_gCaicPXsl4riqh2Y0P9QM5jlsyEBEJNk.jpg',
+    },
+];
+
+export default data;
